@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 1
+#EXTINF:-1 tvg-id="SkySportsMEUHD.mv" tvg-name="Bein Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Football",Bein Sports 1
 http://125x.org:8080/bn1hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 2
+#EXTINF:-1 tvg-id="SkySportsMEUHD.mv" tvg-name="Bein Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Football",Bein Sports 2
 http://125x.org:8080/bn2hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 3
+#EXTINF:-1 tvg-id="SkySportsMEUHD.mv" tvg-name="Bein Sports 3" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_bein_sports_3.png" group-title="Football",Bein Sports 3
 http://125x.org:8080/bn3hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 4
+#EXTINF:-1 tvg-id="SkySportsMEUHD.mv" tvg-name="Bein Sports 4" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_bein_sports_4.png" group-title="Football",Bein Sports 4
 http://125x.org:8080/bn4hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 6
+#EXTINF:-1 tvg-id="SkySportsMEUHD.mv" tvg-name="Bein Sports 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Logo_BeinSports_6_MAX.svg" group-title="Football",Bein Sports 6
 http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SkySportsMEUHD.mv" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://8upload.com/image/67e4a0f017140/sky_sports_main_event_UHD.png" group-title="hilaytv",Sky Sports Main Event UHD
+#EXTINF:-1 tvg-id="SkySportsMEUHD.mv" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://8upload.com/image/67e4a0f017140/sky_sports_main_event_UHD.png" group-title="Football",Sky Sports Main Event UHD
 https://maldivesn.net/hilaytv/skysportsnewsuhd
-#EXTINF:-1 tvg-id="SkySportsME.mv" tvg-name="Sky Sports Main Event HD" tvg-logo="https://8upload.com/image/67e4a0f00bfad/sky_sports_main_event_HD.png" group-title="hilaytv",Sky Sports Main Event HD
+#EXTINF:-1 tvg-id="SkySportsME.mv" tvg-name="Sky Sports Main Event HD" tvg-logo="https://8upload.com/image/67e4a0f00bfad/sky_sports_main_event_HD.png" group-title="Football",Sky Sports Main Event HD
 https://maldivesn.net/hilaytv/skysportsmaineventud
-#EXTINF:-1 tvg-id="SkySportsPLNZ.mv" tvg-name="Sky Sports Premier League UHD" tvg-logo="https://8upload.com/image/67e4a0f02ecaf/sky_sports_premier_League_UHD_.png" group-title="hilaytv",Sky Sports Premier League UHD
+#EXTINF:-1 tvg-id="SkySportsPLNZ.mv" tvg-name="Sky Sports Premier League UHD" tvg-logo="https://8upload.com/image/67e4a0f02ecaf/sky_sports_premier_League_UHD_.png" group-title="Football",Sky Sports Premier League UHD
 https://a1xs.vip/700008
-#EXTINF:-1 tvg-id="skypremierleaguehd" tvg-name="Sky Premier League HD" tvg-logo="https://8upload.com/image/67e5606fa3055/sky_sports_premier_League.png" group-title="hilaytv",Sky Premier League HD
+#EXTINF:-1 tvg-id="skypremierleaguehd" tvg-name="Sky Premier League HD" tvg-logo="https://8upload.com/image/67e5606fa3055/sky_sports_premier_League.png" group-title="Football",Sky Premier League HD
 https://maldivesn.net/hilaytv/skypremierleaguehd
-#EXTINF:-1 tvg-id="skysportsfootball" tvg-name="Sky Sports Football" tvg-logo="https://8upload.com/image/67e5606f94ffb/sky_sports_football.png" group-title="hilaytv",Sky Sports Football
+#EXTINF:-1 tvg-id="skysportsfootball" tvg-name="Sky Sports Football" tvg-logo="https://8upload.com/image/67e5606f94ffb/sky_sports_football.png" group-title="Football",Sky Sports Football
 https://a1xs.vip/2000003
-#EXTINF:-1 tvg-id="SkySports1.mv" tvg-name="Sky Sports 1 FHD" tvg-logo="https://8upload.com/image/67dcf3f71dbaa/sky-sport-1-nz.png" group-title="hilaytv",Sky Sports 1 FHD
+#EXTINF:-1 tvg-id="SkySports1.mv" tvg-name="Sky Sports 1 FHD" tvg-logo="https://8upload.com/image/67dcf3f71dbaa/sky-sport-1-nz.png" group-title="Football",Sky Sports 1 FHD
 https://maldivesn.net/hilaytv/skysportsnz1
-#EXTINF:-1 tvg-id="SkySports2.mv" tvg-name="Sky Sports 2 FHD" tvg-logo="https://8upload.com/image/67dcf3f712c8a/sky-sport-2-nz.png" group-title="hilaytv",Sky Sports 2 FHD
+#EXTINF:-1 tvg-id="SkySports2.mv" tvg-name="Sky Sports 2 FHD" tvg-logo="https://8upload.com/image/67dcf3f712c8a/sky-sport-2-nz.png" group-title="Football",Sky Sports 2 FHD
 https://maldivesn.net/hilaytv/skysportsnz2
-#EXTINF:-1 tvg-id="SkySports3.mv" tvg-name="Sky Sports 3 FHD" tvg-logo="https://8upload.com/image/67dcf3f707147/sky-sport-3-nz.png" group-title="hilaytv",Sky Sports 3 FHD
+#EXTINF:-1 tvg-id="SkySports3.mv" tvg-name="Sky Sports 3 FHD" tvg-logo="https://8upload.com/image/67dcf3f707147/sky-sport-3-nz.png" group-title="Football",Sky Sports 3 FHD
 https://maldivesn.net/hilaytv/skysportsnz3
-#EXTINF:-1 tvg-id="SkySports4.mv" tvg-name="Sky Sports 4 FHD" tvg-logo="https://8upload.com/image/67dcf3f6edfdd/sky-sport-4-nz.png" group-title="hilaytv",Sky Sports 4 FHD
+#EXTINF:-1 tvg-id="SkySports4.mv" tvg-name="Sky Sports 4 FHD" tvg-logo="https://8upload.com/image/67dcf3f6edfdd/sky-sport-4-nz.png" group-title="Football",Sky Sports 4 FHD
 https://maldivesn.net/hilaytv/skysportsnz4
-#EXTINF:-1 tvg-id="SkySports5.mv" tvg-name="Sky Sports 5 FHD" tvg-logo="https://8upload.com/image/67dcf3f6de1e0/sky-sport-5-nz.png" group-title="hilaytv",Sky Sports 5 FHD
+#EXTINF:-1 tvg-id="SkySports5.mv" tvg-name="Sky Sports 5 FHD" tvg-logo="https://8upload.com/image/67dcf3f6de1e0/sky-sport-5-nz.png" group-title="Football",Sky Sports 5 FHD
 https://maldivesn.net/hilaytv/skysportsnz5
-#EXTINF:-1 tvg-id="SkySports6.mv" tvg-name="Sky Sports 6 FHD" tvg-logo="https://8upload.com/image/67dcf3f6ced05/sky-sport-6-nz.png" group-title="hilaytv",Sky Sports 6 FHD
+#EXTINF:-1 tvg-id="SkySports6.mv" tvg-name="Sky Sports 6 FHD" tvg-logo="https://8upload.com/image/67dcf3f6ced05/sky-sport-6-nz.png" group-title="Football",Sky Sports 6 FHD
 https://maldivesn.net/hilaytv/skysportsnz6
-#EXTINF:-1 tvg-id="SkySports7.mv" tvg-name="Sky Sports 7 FHD" tvg-logo="https://8upload.com/image/67dcf3f6c3320/sky-sport-7-nz.png" group-title="hilaytv",Sky Sports 7 FHD
+#EXTINF:-1 tvg-id="SkySports7.mv" tvg-name="Sky Sports 7 FHD" tvg-logo="https://8upload.com/image/67dcf3f6c3320/sky-sport-7-nz.png" group-title="Football",Sky Sports 7 FHD
 https://maldivesn.net/hilaytv/skysportsnz7
-#EXTINF:-1 tvg-id="SkySports8.mv" tvg-name="Sky Sports 8 FHD" tvg-logo="https://8upload.com/image/67dcf3f6b6e90/sky-sport-8-nz.png" group-title="hilaytv",Sky Sports 8 FHD
+#EXTINF:-1 tvg-id="SkySports8.mv" tvg-name="Sky Sports 8 FHD" tvg-logo="https://8upload.com/image/67dcf3f6b6e90/sky-sport-8-nz.png" group-title="Football",Sky Sports 8 FHD
 https://a1xs.vip/700008
-#EXTINF:-1 tvg-id="SkySports9.mv" tvg-name="Sky Sports 9 FHD" tvg-logo="https://8upload.com/image/67dcf3f6a8c72/sky-sport-9-nz.png" group-title="hilaytv",Sky Sports 9 FHD
+#EXTINF:-1 tvg-id="SkySports9.mv" tvg-name="Sky Sports 9 FHD" tvg-logo="https://8upload.com/image/67dcf3f6a8c72/sky-sport-9-nz.png" group-title="Football",Sky Sports 9 FHD
 http://103.140.3.18:7860/ddy/596
