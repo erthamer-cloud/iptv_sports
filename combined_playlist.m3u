@@ -9,7 +9,7 @@ http://125x.org:8080/bn3hd/tracks-v1a1/mono.m3u8
 http://125x.org:8080/bn4hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SkySportsMEUHD.mv" tvg-name="Bein Sports 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Logo_BeinSports_6_MAX.svg" group-title="Football",Bein Sports 6
 http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BeinSportsXtra.mv" tvg-name="Bein Sports Xtra" tvg-logo="https://8upload.com/image/67e226e8e5460/beinxtrahilayjpg.jpg" group-title="hilaytv",Bein Sports Xtra
+#EXTINF:-1 tvg-id="BeinSportsXtra.mv" tvg-name="Bein Sports Xtra" tvg-logo="https://8upload.com/image/67e226e8e5460/beinxtrahilayjpg.jpg" group-title="Football",Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SkySportsMEUHD.mv" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://8upload.com/image/67e4a0f017140/sky_sports_main_event_UHD.png" group-title="Football",Sky Sports Main Event UHD
 https://maldivesn.net/hilaytv/skysportsnewsuhd
@@ -39,11 +39,11 @@ https://maldivesn.net/hilaytv/skysportsnz7
 https://a1xs.vip/700008
 #EXTINF:-1 tvg-id="SkySports9.mv" tvg-name="Sky Sports 9 FHD" tvg-logo="https://8upload.com/image/67dcf3f6a8c72/sky-sport-9-nz.png" group-title="Football",Sky Sports 9 FHD
 http://103.140.3.18:7860/ddy/596
-#EXTINF:-1 tvg-id="TNTSports1.mv" tvg-name="TNT Sports One UK" tvg-logo="https://8upload.com/image/67dce7ca14487/tntsports1.png" group-title="hilaytv",TNT SPORTS 1
+#EXTINF:-1 tvg-id="TNTSports1.mv" tvg-name="TNT Sports One UK" tvg-logo="https://8upload.com/image/67dce7ca14487/tntsports1.png" group-title="Football",TNT SPORTS 1
 https://maldivesn.net/hilaytv/tnt1
-#EXTINF:-1 tvg-id="TNTSports2.mv" tvg-name="TNT Sports Two UK" tvg-logo="https://8upload.com/image/67dce7ca229f0/tntsports2.png" group-title="hilaytv",TNT SPORTS 2
+#EXTINF:-1 tvg-id="TNTSports2.mv" tvg-name="TNT Sports Two UK" tvg-logo="https://8upload.com/image/67dce7ca229f0/tntsports2.png" group-title="Football",TNT SPORTS 2
 https://maldivesn.net/hilaytv/tnt2
-#EXTINF:-1 tvg-id="TNTSports3.mv" tvg-name="TNT Sports Three UK" tvg-logo="https://8upload.com/image/67dce7ca32337/tntsports3.png" group-title="hilaytv",TNT SPORTs 3
+#EXTINF:-1 tvg-id="TNTSports3.mv" tvg-name="TNT Sports Three UK" tvg-logo="https://8upload.com/image/67dce7ca32337/tntsports3.png" group-title="Football",TNT SPORTs 3
 https://maldivesn.net/hilaytv/tnt3
-#EXTINF:-1 tvg-id="TNTSports4.mv" tvg-name="TNT Sports Four" tvg-logo="https://8upload.com/image/67dce7ca3f410/tntsports4.png" group-title="hilaytv",TNT SPORTS 4
+#EXTINF:-1 tvg-id="TNTSports4.mv" tvg-name="TNT Sports Four" tvg-logo="https://8upload.com/image/67dce7ca3f410/tntsports4.png" group-title="Football",TNT SPORTS 4
 https://maldivesn.net/hilaytv/tnt4
